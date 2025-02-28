@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Tệp cấu hình môi trường
+.env
+
+# Tệp logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Tệp cấu hình hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Các tệp cache của IDE
+.vscode/
+.idea/
+
+# Các tệp tạm thời hoặc backup
+*.log
+*.bak
+*.swp
+
