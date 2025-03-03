@@ -1,0 +1,36 @@
+* commit b789eab450232633c5768bb7af016520f06f3b63
+| Author: Sentiago22 <nguyenminhhieu2k2000@gmail.com>
+| Date:   Fri Feb 28 23:01:53 2025 +0300
+| 
+|     Add main program code and dependencies
+|   
+*   commit 81de76c6ce7db8cf11fa73ecf866da0db4214b3a
+|\  Merge: 0864c67 927a20a
+| | Author: MACBOOK <macbook@MacBook-Pro-cua-MACBOOK.local>
+| | Date:   Fri Feb 28 22:51:08 2025 +0300
+| | 
+| |     Resolved conflict in README.md
+| | 
+| * commit 927a20ae726d12b8efaf058be8833470f3b5ba8a
+| | Author: NGUYEN MINH HIEU <107747484+Sentiago22@users.noreply.github.com>
+| | Date:   Fri Feb 28 22:30:49 2025 +0300
+| | 
+| |     Delete README.md
+| | 
+* | commit 0864c67a9f138753fcfb2cebd754105a5ba6491c
+|/  Author: MACBOOK <macbook@MacBook-Pro-cua-MACBOOK.local>
+|   Date:   Fri Feb 28 22:34:15 2025 +0300
+|   
+|       Add README.md and other updates
+| 
+* commit f704c5ba8f7b4457f0a7a09bbb0d9fa064048432
+| Author: MACBOOK <macbook@MacBook-Pro-cua-MACBOOK.local>
+| Date:   Fri Feb 28 22:28:22 2025 +0300
+| 
+|     Add .gitignore file
+| 
+* commit 71a26562ff58db1402ec61e0279cab0732716c8d
+  Author: MACBOOK <macbook@MacBook-Pro-cua-MACBOOK.local>
+  Date:   Fri Feb 28 21:56:07 2025 +0300
+  
+      Initial commit
